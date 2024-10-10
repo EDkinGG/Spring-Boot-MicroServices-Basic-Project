@@ -1,2 +1,2 @@
 # Spring-Boot-MicroServices-Basic-Project
-Followed the tutorials from Java Brains
+Followed by the tutorials of Java Brains
